@@ -8,8 +8,8 @@ int mins=0;
 for(int i=0;i<5;i++){
 mins=i;
 for(int j=i+1;j<5;j++){
-    if(arr[j]<mins){
-        mins=arr[j];
+    if(arr[j]<arr[mins]){
+        mins=j;
     }
     temp=arr[i];
     arr[i]=arr[mins];

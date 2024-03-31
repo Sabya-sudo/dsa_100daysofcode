@@ -6,5 +6,6 @@ int main (){
    int n = 7, sum = 0;
    sum = accumulate(arr, arr+n, sum);
    cout<<"The array sum is "<<sum;
+   cout<<"The array sum is "<<sum;
    return 0;
 }

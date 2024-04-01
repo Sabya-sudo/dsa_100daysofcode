@@ -1,3 +1,4 @@
+//Code is in cpp
 #include <iostream>
 #include <numeric>
 using namespace std;

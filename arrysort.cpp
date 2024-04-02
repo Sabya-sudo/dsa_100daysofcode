@@ -2,6 +2,7 @@
 using namespace std;  
 
 // Function to swap two integer values using pointers
+// Function to swap two integer values using pointers
 void swap(int *x, int *y)
 {
     int temp = *x;

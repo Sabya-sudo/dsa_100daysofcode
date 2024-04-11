@@ -1,5 +1,5 @@
 #include<iostream>
-//A slectionsort program
+//A slectionsort program in C++
 using namespace std;
 int main(){
 int arr[5]={5,4,3,2,1};

@@ -12,7 +12,8 @@ public class Power {
             count++;
             number = number/n;
         }
-        System.out.println(count);
+        
+        System.out.println("Your answer is: "+count);
         
     }
     

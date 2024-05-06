@@ -4,7 +4,7 @@ public class Power {
         int count=0;
         int sum=0;
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter Number: ");
+        System.out.println("Enter Number:");
         int number = sc.nextInt();
         System.out.println("Enter N");
         int n = sc.nextInt();
